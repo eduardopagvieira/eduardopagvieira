@@ -1,6 +1,6 @@
 ### Eduardo Vieira
 
-Cientista político e analista de dados. Coleto, trato e analiso dados públicos e de redes sociais em Python, e apresento os resultados em gráficos, painéis de Power BI e relatórios. Mestrando em Ciência Política na UFSCar e pesquisador colaborador do CCI/CEBRAP.
+Cientista político e analista de dados. Coleto, trato e analiso dados públicos e de redes sociais em Python, e apresento os resultados em gráficos, painéis de Power BI e relatórios. Mestrando em Ciência Política na UFSCar.
 
 **Projetos com dados abertos**
 
